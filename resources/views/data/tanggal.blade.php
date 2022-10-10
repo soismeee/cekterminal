@@ -1,0 +1,1 @@
+{{ date('d M Y', strtotime($datainput->created_at)) }}
